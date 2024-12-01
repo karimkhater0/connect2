@@ -1,16 +1,31 @@
-# connect2
+# Connect2 - Football Player Connection Game
 
-A new Flutter project.
+## Overview
+Connect2 is an engaging mobile game that challenges players to connect two random football players through shared attributes. Test your football knowledge by finding links between players across different categories!
 
-## Getting Started
+## Features
+- Connect players through multiple categories:
+  - Shared National Team
+  - Same Playing Position
+  - Played in the Same League
+  - Played for the Same Club
+  - Matched Prestigious Awards
+  - Shared Trophy Achievements
 
-This project is a starting point for a Flutter application.
+- Challenging gameplay with limited attempts
+- Over 100 professional football players in the database
+- Intuitive, user-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- MVVM Architecture
+- Cubit State Management
+- SQLite (local database)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code
+
