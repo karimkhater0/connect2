@@ -1,0 +1,22 @@
+{
+  "play" : "Play",
+  "how_to_play" : "How To Play?",
+  "how_to_play_desc" : "Connect one Player to another by a category. You can choose each category 7 times in one round. Streak stops when 2 players are not connected. You have 3 lives and 3 skips.",
+  "categories" : "Categories",
+  "category1_title" : "Same Award",
+  "category1_desc" : "Players must have won the same award. Awards: Golden Boot, Ballon Dor, UEFA Poty.",
+  "category2_title" : "Same Nation",
+  "category2_desc" : "Players must have the same Nation.",
+  "category3_title" : "Same Club",
+  "category3_desc" : "Players must have played for the same Club. Not necessary at the same time.",
+  "category4_title" : "Same League",
+  "category4_desc" : "Players must have played in the same League. Not necessary at the same time.",
+  "category5_title" : "Same Trophy",
+  "category5_desc" : "Players must have won the same Trophy. Trophies: Top 5 Leagues, UCL, Europa League, World Cup, Euro, Copa America, AFCON.",
+  "category6_title" : "Same Position",
+  "category6_desc" : "Players plays in the same position.",
+  "sound" : "Sound",
+
+  "loading" : "Loading ....."
+
+}
